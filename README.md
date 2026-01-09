@@ -7,6 +7,7 @@ AI-powered exam-oriented study assistant using RAG, embeddings, and semantic sea
 
 ## IntelliJect is an AI-powered study assistant that enriches student notes with contextually relevant Previous Year Questions (PYQs). It helps students study in an exam-oriented manner by automatically mapping their notes to syllabus-aligned PYQs using embeddings, semantic search, and a Retrieval-Augmented Generation (RAG) pipeline.
 
+
 ## Key Features
 
   1. Notes Matcher (RAG-based)
@@ -14,7 +15,7 @@ AI-powered exam-oriented study assistant using RAG, embeddings, and semantic sea
     Automatically extract and chunk content
     Semantically match each chunk with relevant PYQs
     Highlight exact answer lines directly from notes
-    Display matched PYQs alongside notes for contextual learning     🎥Demo
+    Display matched PYQs alongside notes for contextual learning     
      ![Untitled video - Made with Clipchamp](https://github.com/user-attachments/assets/7041b618-94f8-47ce-bc0f-87596e99cbfa)
      
   2.Smart Database Builder
@@ -22,19 +23,19 @@ AI-powered exam-oriented study assistant using RAG, embeddings, and semantic sea
     OCR-based text extraction with preprocessing
     LLM-powered parsing to structure questions with metadata
     Deduplication using question hashing
-    Manual review and edit before database insertion   🎥Demo
+    Manual review and edit before database insertion   
     ![db_comp](https://github.com/user-attachments/assets/23283899-abbb-43a4-9905-cba62062e32e)
     
   3. Contextual PYQ Search Engine
     Filter PYQs by subject, college, branch, semester, unit, marks, frequency
     Semantic search using vector embeddings (FAISS)
-    Difficulty-based and frequency-based question recommendations 🎥Demo
+    Difficulty-based and frequency-based question recommendations 
     ![search](https://github.com/user-attachments/assets/5f4bb5cc-29e5-477b-b3d8-4821bfc875c6)
 
   4. AI Study Planner
     Generates a day-wise study plan based on PYQ frequency
     Prioritizes high-weightage topics
-    Estimates daily workload and time  🎥Demo
+    Estimates daily workload and time 
 
  ![study planner](https://github.com/user-attachments/assets/c2f0b271-f10c-4eaa-9f89-0e6749bd3dbc)
 
@@ -54,6 +55,9 @@ AI-powered exam-oriented study assistant using RAG, embeddings, and semantic sea
     Deployment:
     AWS EC2 for application hosting
     AWS RDS for persistent storage
+    
+  <img width="874" height="478" alt="image" src="https://github.com/user-attachments/assets/9f1f86d4-9a0b-4e73-9b31-0a3c23674541" />
+
 
 ## Tech Stack
 
