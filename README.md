@@ -1,7 +1,8 @@
 ## 🎯IntelliJect
 
 
-![db_comp](https://github.com/user-attachments/assets/f4661c0f-b1fa-4d3f-8dfb-032cdac518a4)
+![Untitled video - Made with Clipchamp (5)](https://github.com/user-attachments/assets/5e9c7030-172d-4a20-884f-349f1d6abe8f)
+
 
 AI-powered exam-oriented study assistant using RAG, embeddings, and semantic search
 
